@@ -1,1 +1,1 @@
-var recipe = {typeof recipes: 'ingredients'}
+object.assign({}, {foo: 'recipes'})

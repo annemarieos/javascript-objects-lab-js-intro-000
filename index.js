@@ -1,1 +1,1 @@
-object.assign()
+var obj = {foo: 'recipes'}

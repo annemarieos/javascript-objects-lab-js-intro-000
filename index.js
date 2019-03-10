@@ -1,1 +1,1 @@
-object.assign({}, {foo: 'recipes'})
+object.assign()
